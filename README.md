@@ -1,9 +1,15 @@
-Personal-Designed Format-Converter
+# Format-Convert Website
 
-在线格式转换网站
+# 在线格式转换网站
 
-This project is the earliest demo of my website skin
+This is an early demo of my website skin
 
-The final website url is:
+The final Website: [https://tenzindann.github.io/format-transformer/](https://tenzindann.github.io/format-transformer/)
 
-https://tenzindann.github.io/format-transformer/
+## ⭐支持网易云NCM 解密⭐Support NCM Decrypt(An Infamous Netease Encrypted Format)
+
+- Supported-Convert：
+  - Music: `MP3 / FLAC / WAV / OGG / AAC / M4A`
+  - Image: `PNG / JPG / WEBP / GIF / BMP / SVG / ICO / AVIF / HEIC / HEIF`
+  - Document: `TXT / MD / CSV / TSV / JSON / XLSX / XLS / HTML / XML / INI / YAML / TOML / DOCX / PDF`
+  - NCM Decrypt: `NCM -> MP3 / FLAC`
